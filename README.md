@@ -3,23 +3,11 @@
 [![Website](https://arealalien.com/github/arealalien.svg)](https://arealalien.com)
 [![Twitter Follow](https://arealalien.com/github/twitter.svg)](https://twitter.com/Areal_Alien)
 
+## Graphic designer, programmer & photographer
+
+⚡ I'm currently working on my [personal website][website]
+
 ---
 
 [website]: https://arealalien.com
 [twitter]: https://twitter.com/Areal_Alien
-
-
-<!--
-**dlirA01/dlirA01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
