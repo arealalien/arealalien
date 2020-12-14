@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Alien or as i'm known on here, [dlirA01][website] 
 
 [![Website](https://arealalien.com/github/website.svg)](https://arealalien.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Areal_Alien)
 
 ---
 
