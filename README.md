@@ -28,7 +28,7 @@
 <summary>:star: Github Stats</summary>
   
 <!-- start -->
-* I haven't published that yet, lol :)
+[![dlirA01's github stats](https://github-readme-stats.vercel.app/api?username=dlirA01)](https://github.com/dlirA01/github-readme-stats)
 <!-- end -->
 
 </details>
