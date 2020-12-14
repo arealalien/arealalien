@@ -1,4 +1,7 @@
-### Hi 👋, I'm Alien or as i'm known on here, dlirA01
+### Hi 👋, I'm Alien or as i'm known on here, [dlirA01][website] 
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arealalien.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 <!--
 **dlirA01/dlirA01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
