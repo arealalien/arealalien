@@ -6,6 +6,10 @@
 
 ⚡ I'm currently working on my [personal website][website]
 
+<br />
+
+### Connect with me
+
 [<img align="left" alt="arealalien.com" height="22px" src="https://arealalien.com/github/icons/logo.svg" />][website]
 [<img align="left" alt="Areal Alien - YouTube" height="22px" src="https://arealalien.com/github/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Areal Alien - Twitter" height="22px" src="https://arealalien.com/github/icons/twitter.svg" />][twitter]
