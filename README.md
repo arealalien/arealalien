@@ -6,7 +6,8 @@
 
 ## Graphic designer, programmer & photographer
 
-⚡ I'm currently working on my [personal website][website]
+- ⚡ I'm currently working on my [personal website][website]
+- 🌼 See my other [projects here][websiteProj]
 
 <br />
 
