@@ -24,10 +24,10 @@
 ---
 
 <details>
-<summary>:star: This is something random</summary>
+<summary>:star: Github Stats</summary>
   
 <!-- start -->
-* [My Website][website]
+* I haven't published that yet, lol :)
 <!-- end -->
 
 </details>
