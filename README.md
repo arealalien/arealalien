@@ -19,8 +19,18 @@
 [<img align="left" alt="Areal Alien - Instagram" height="22px" src="https://arealalien.com/github/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ---
+
+<details>
+<summary>:star: This is something random</summary>
+  
+<!-- start -->
+* [My Website][website]
+<!-- end -->
+
+</details>
 
 [website]: https://arealalien.com
 [websiteProj]: https://arealalien.com/design-lab.php
