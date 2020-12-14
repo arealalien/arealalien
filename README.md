@@ -29,7 +29,7 @@
   
 <!-- start -->
 
-[![dlirA01's github stats](https://github-readme-stats.vercel.app/api?username=dlirA01)](https://github.com/dlirA01/github-readme-stats)
+[![dlirA01's github stats](https://github-readme-stats.vercel.app/api?username=dlirA01&count_private=true)](https://github.com/dlirA01/github-readme-stats)
 <!-- end -->
 
 </details>
