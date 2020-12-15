@@ -23,7 +23,7 @@
 
 ## Spotify
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://dlira01.vercel.app/api/spotify)](https://open.spotify.com/user/dlira01snow)
 
 <br />
 <br />
