@@ -11,7 +11,7 @@
 
 <br />
 
-### Connect with me
+## Connect with me
 
 [<img align="left" alt="arealalien.com" height="22px" src="https://arealalien.com/github/icons/logo.svg" />][website]
 [<img align="left" alt="Areal Alien - YouTube" height="22px" src="https://arealalien.com/github/icons/youtube.svg" />][youtube]
