@@ -4,7 +4,7 @@
 
 <br />
 
-## Graphic designer, programmer & photographer
+## Graphic designer, programmer & photographer [<img src="https://arealalien.com/github/gifs/lovesmile.gif" width="24px"/>][website]
 
 - ⚡ I'm currently working on my [personal website][website]
 - 🌼 See my other [projects here][websiteProj]
@@ -28,7 +28,6 @@
 <summary>:star: Github Stats</summary>
   
 <!-- start -->
-
 [![dlirA01's github stats](https://github-readme-stats.vercel.app/api?username=dlirA01&count_private=true&show_icons=true&theme=omni)](https://github.com/dlirA01/github-readme-stats)
 <!-- end -->
 
