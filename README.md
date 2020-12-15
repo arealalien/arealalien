@@ -23,7 +23,7 @@
 
 ## Spotify
 
-[![Spotify](https://dlira01.vercel.app/api/spotify)](https://open.spotify.com/user/dlira01snow)
+[![Spotify](https://novatorem-eight-ivory.vercel.app/api/spotify)](https://open.spotify.com/user/dlira01snow)
 
 <br />
 <br />
