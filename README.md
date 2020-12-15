@@ -20,12 +20,6 @@
 [<img align="left" alt="Areal Alien - Codepen" height="22px" src="https://arealalien.com/github/icons/codepen.svg" />][codepen]
 
 <br />
-
-## Spotify
-
-[![Spotify](https://novatorem.dlira01.vercel.app/api/spotify)](https://open.spotify.com/user/dlira01snow)
-
-<br />
 <br />
 
 ---
