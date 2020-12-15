@@ -20,6 +20,12 @@
 [<img align="left" alt="Areal Alien - Codepen" height="22px" src="https://arealalien.com/github/icons/codepen.svg" />][codepen]
 
 <br />
+
+## Spotify
+
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+<br />
 <br />
 
 ---
