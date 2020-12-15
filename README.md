@@ -4,7 +4,7 @@
 
 <br />
 
-## Graphic designer, programmer & photographer [<img src="https://arealalien.com/github/gifs/lovesmile.gif" width="24px"/>][website]
+## Graphic designer, programmer & photographer [<img src="https://arealalien.com/github/gifs/lovesmile.gif" width="18px"/>][website]
 
 - ⚡ I'm currently working on my [personal website][website]
 - 🌼 See my other [projects here][websiteProj]
