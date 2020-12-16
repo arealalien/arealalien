@@ -33,6 +33,15 @@
 
 </details>
 
+<details>
+<summary>:star: Here's a random meme</summary>
+  
+<!-- start -->
+[<img align="left" alt="code-meme" width="50%" src="https://i.imgur.com/TVaVumb.jpg" />][website]
+<!-- end -->
+
+</details>
+
 [website]: https://arealalien.com
 [websiteProj]: https://arealalien.com/design-lab.php
 [youtube]: https://youtube.com/ArealAlien
