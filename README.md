@@ -34,10 +34,11 @@
 </details>
 
 <details>
-<summary>:star: Here's a random meme</summary>
+<summary>:star: Here's a couple random memes</summary>
   
 <!-- start -->
 [<img align="left" alt="code-meme" width="50%" src="https://i.imgur.com/TVaVumb.jpg" />][website]
+[<img align="left" alt="code-meme" width="50%" src="https://i.imgur.com/MSnKxzc.jpg" />][website]
 <!-- end -->
 
 </details>
