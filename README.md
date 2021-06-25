@@ -13,7 +13,7 @@
 
 ## Connect with me
 
-[<img align="left" alt="arealalien.com" height="22px" src="https://arealalien.com/github/icons/logo.svg" />][website]
+[<img align="left" alt="arealalien.com" height="22px" src="https://arealalien.com/github/icons/icon.svg" />][website]
 [<img align="left" alt="Areal Alien - YouTube" height="22px" src="https://arealalien.com/github/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Areal Alien - Twitter" height="22px" src="https://arealalien.com/github/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Areal Alien - Instagram" height="22px" src="https://arealalien.com/github/icons/instagram.svg" />][instagram]
