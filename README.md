@@ -11,10 +11,10 @@
 
 ## Connect with me
 
-<img src="https://github.com/dlirA01/dlirA01/blob/main/youtube.svg" height="14px"/> [YouTube][youtube]
-<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" height="14px"/> [Twitter][twitter]
-<img src="https://github.com/dlirA01/dlirA01/blob/main/instagram.svg" height="14px"/> [Instagram][instagram]
-<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="14px"/> [Codepen][codepen]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/youtube.svg" height="12px"/> [YouTube][youtube]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" height="12px"/> [Twitter][twitter]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/instagram.svg" height="12px"/> [Instagram][instagram]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/> [Codepen][codepen]
 
 <br />
 <br />
