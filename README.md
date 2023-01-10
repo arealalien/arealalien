@@ -11,10 +11,10 @@
 
 ## Connect with me
 
-[YouTube][youtube]
-[Twitter][twitter]
-[Instagram][instagram]
-[Codepen][codepen]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/youtube.svg" width="28px"/> [YouTube][youtube]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" width="28px"/> [Twitter][twitter]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/instagram.svg" width="28px"/> [Instagram][instagram]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" width="28px"/> [Codepen][codepen]
 
 <br />
 <br />
