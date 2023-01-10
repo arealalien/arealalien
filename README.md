@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>, I'm Alien or as i'm known on here, dlirA01
+# Hi [<img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>][youtube], I'm Alien or as i'm known on here, [dlirA01][youtube]
 
 <br />
 
@@ -12,9 +12,9 @@
 ## Connect with me
 
 [<img src="https://github.com/dlirA01/dlirA01/blob/main/youtube.svg" height="12px"/>][youtube] [YouTube][youtube]<br />
-<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" height="12px"/> [Twitter][twitter]<br />
-<img src="https://github.com/dlirA01/dlirA01/blob/main/instagram.svg" height="12px"/> [Instagram][instagram]<br />
-<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/> [Codepen][codepen]
+[<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" height="12px"/>][twitter] [Twitter][twitter]<br />
+[<img src="https://github.com/dlirA01/dlirA01/blob/main/instagram.svg" height="12px"/>][instagram] [Instagram][instagram]<br />
+[<img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/>][codepen] [Codepen][codepen]
 
 <br />
 <br />
