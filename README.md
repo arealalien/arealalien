@@ -11,9 +11,9 @@
 
 ## Connect with me
 
-<img src="https://github.com/dlirA01/dlirA01/blob/main/youtube.svg" height="12px"/> [YouTube][youtube]
-<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" height="12px"/> [Twitter][twitter]
-<img src="https://github.com/dlirA01/dlirA01/blob/main/instagram.svg" height="12px"/> [Instagram][instagram]
+<img src="https://github.com/dlirA01/dlirA01/blob/main/youtube.svg" height="12px"/> [YouTube][youtube]<br />
+<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" height="12px"/> [Twitter][twitter]<br />
+<img src="https://github.com/dlirA01/dlirA01/blob/main/instagram.svg" height="12px"/> [Instagram][instagram]<br />
 <img src="https://github.com/dlirA01/dlirA01/blob/main/codepen.svg" height="12px"/> [Codepen][codepen]
 
 <br />
