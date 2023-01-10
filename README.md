@@ -1,4 +1,4 @@
-# Hi [<img src="https://arealalien.com/github/gifs/hi.gif" width="28px"/>], I'm Alien or as i'm known on here, dlirA01
+# Hi [<img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>], I'm Alien or as i'm known on here, dlirA01
 
 <br />
 
