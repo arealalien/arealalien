@@ -17,12 +17,6 @@
 [Codepen][codepen]
 
 <br />
-
-## Spotify
-
-[![Spotify](https://novatorem.dlira01.vercel.app/api/spotify)](https://open.spotify.com/user/dlira01snow)
-
-<br />
 <br />
 
 ---
