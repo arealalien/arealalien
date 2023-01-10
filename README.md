@@ -4,8 +4,7 @@
 
 ## Graphic designer, programmer & photographer
 
-- ⚡ I'm currently working on my
-- 🌼 See my other
+- 🌼 Currently studying digital media and design
 
 <br />
 
