@@ -10,8 +10,6 @@
 
 ## Connect with me
 
-<a href="https://youtube.com/ArealAlien" style="color: red; text-decoration: none;"><span style="color:red">YouTube</span></a>
-
 [<img src="https://github.com/dlirA01/dlirA01/blob/main/youtube.svg" height="12px"/>][youtube] [YouTube][youtube] &nbsp;&nbsp;
 [<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" height="12px"/>][twitter] [Twitter][twitter] &nbsp;&nbsp;
 [<img src="https://github.com/dlirA01/dlirA01/blob/main/instagram.svg" height="12px"/>][instagram] [Instagram][instagram] &nbsp;&nbsp;
