@@ -1,4 +1,4 @@
-# Hi [<img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>][youtube], I'm Alien or as i'm known on here, <span style="color:red">[dlirA01][youtube]</span> [<img src="https://github.com/dlirA01/dlirA01/blob/main/wink-tounge.gif" width="28px"/>][youtube]
+# Hi [<img src="https://github.com/dlirA01/dlirA01/blob/main/wave.gif" width="28px"/>][youtube], I'm Alien or as i'm known on here, [dlirA01][youtube] [<img src="https://github.com/dlirA01/dlirA01/blob/main/wink-tounge.gif" width="28px"/>][youtube]
 
 <br />
 
@@ -9,6 +9,8 @@
 <br />
 
 ## Connect with me
+
+<a href="[https://www.google.com/](https://youtube.com/ArealAlien)" style="color: red; text-decoration: none;">YouTube</a>
 
 [<img src="https://github.com/dlirA01/dlirA01/blob/main/youtube.svg" height="12px"/>][youtube] [YouTube][youtube] &nbsp;&nbsp;
 [<img src="https://github.com/dlirA01/dlirA01/blob/main/twitter.svg" height="12px"/>][twitter] [Twitter][twitter] &nbsp;&nbsp;
