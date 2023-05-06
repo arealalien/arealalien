@@ -22,10 +22,12 @@
 
 <details>
 <summary>:star: Github Stats</summary>
+
+  <br />
   
-<!-- start -->
-[![dlirA01's github stats](https://github-readme-stats.vercel.app/api?username=dlirA01&count_private=true&show_icons=true&theme=omni)](https://github.com/dlirA01/github-readme-stats)
-<!-- end -->
+  <!-- start -->
+  [![dlirA01's github stats](https://github-readme-stats.vercel.app/api?username=dlirA01&count_private=true&show_icons=true&theme=omni)](https://github.com/dlirA01/github-readme-stats)
+  <!-- end -->
 
 </details>
 
